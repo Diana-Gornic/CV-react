@@ -8,7 +8,7 @@ import edu2 from './../../img/education2.svg';
 const Education = () => {
 
     return (
-        <div className={classes.Education}>
+        <div className={classes.Education} id="education">
             <PageHeader title={'Education'} />
             <div className={classes.Container}>
                 <div className={classes.Photo}>

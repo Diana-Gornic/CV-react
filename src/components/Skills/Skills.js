@@ -6,7 +6,7 @@ import skill from './../../img/skills.svg';
 const Skills = () => {
 
     return (
-        <div className={classes.Skills}>
+        <div className={classes.Skills} id="skills">
             <PageHeader title={'Skills'} />
             <div className={classes.Container}>
                 <div className={classes.ContainerSkills}> 

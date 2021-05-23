@@ -1,0 +1,43 @@
+.Projects .Container {
+    display:flex;
+    position: relative;
+    align-items: center;
+    padding-bottom: 2%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+    .Projects .Container .Photo .Proj {
+        height: 300px;
+        padding-right: 50px;
+    }
+
+    .Projects .Container .WebMobile .Text {
+        color: gray;
+        width: 75%;
+    }
+
+        .Projects .Container .WebMobile .Text h2 {
+            font-size: 27px;
+            font-weight: 600;
+        }
+
+        .Projects .Container .WebMobile .Text p {
+            font-size: 21px;
+        }
+
+    .Projects .Container .Desktop .Text {
+        color: gray;
+    }
+
+        .Projects .Container .Desktop .Text h2 {
+            font-size: 27px;
+            font-weight: 600;
+        }
+
+        .Projects .Container .Desktop .Text p {
+            font-size: 21px;
+        }
+
+    
+
