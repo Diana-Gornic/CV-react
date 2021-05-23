@@ -1,0 +1,29 @@
+.Home {
+    display: flex;
+    height:600px;
+    padding-top: 80px;
+    position:relative;
+}
+
+.Home .Container {
+    margin-left: 20px;
+}
+
+.Home .Container h1 {
+    margin: 0;
+    color: #808080;
+    top: 15%;
+}
+
+.Home .Container .Hello {
+    font-size: 55px;
+}
+
+.Home .code {
+    height: 25%;
+    position:absolute;
+    bottom: 5%;
+    left: 30%;
+    top: 15%;
+    height: 60%;
+}
