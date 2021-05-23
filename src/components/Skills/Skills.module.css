@@ -1,0 +1,49 @@
+.Skills .Container {
+    display: flex;
+}
+
+.Skills .Container .ContainerSkills {
+    display: inline;
+}
+
+    .Skills .Container .ContainerSkills .ProgrammingSkills .Text {
+        width: 100%;
+        margin-left: 3%;
+        color: gray;
+    }
+
+        .Skills .Container .ContainerSkills .ProgrammingSkills .Text h1 {
+            font-size: 40px;
+            font-weight: 900;
+        }
+
+        .Skills .Container .ContainerSkills .ProgrammingSkills .Text h2 {
+            font-size: 27px;
+            font-weight: 600;
+        }
+
+        .Skills .Container .ContainerSkills .ProgrammingSkills .Text p {
+            font-size: 21px;
+        }
+
+    .Skills .Container .Photo .Skill {
+        border-radius: 10%;
+        height: 600px;
+        width: 80%;
+        top: 20%;
+    }
+
+    .Skills .Container .ContainerSkills .PersonalSkills .Text {
+        width: 60%;
+        margin-left: 3%;
+        color: gray;
+    }
+
+        .Skills .Container .ContainerSkills .PersonalSkills .Text h1 {
+            font-size: 40px;
+            font-weight: 900;
+        }
+
+       .Skills .Container .ContainerSkills .PersonalSkills .Text p {
+            font-size: 21px;
+        }

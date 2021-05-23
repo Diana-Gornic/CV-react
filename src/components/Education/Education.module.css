@@ -1,0 +1,31 @@
+
+
+.Education .Container {
+    display: flex;
+    margin-left: 3%;
+}
+
+.Education .Container .Text {
+   width: 80%;
+   text-align: right;
+   color: gray;
+   margin-right: 7%;
+}
+
+.Education .Container .Text h1 {
+   font-size: 40px;
+   font-weight: 900;
+}
+
+.Education .Container .Text h2 {
+   font-size: 27px;
+   font-weight: 600;
+}
+
+.Education .Container .Text p {
+   font-size: 21px;
+}
+
+.Education .Container .Photo .Edu {
+   height: 300px;
+}
